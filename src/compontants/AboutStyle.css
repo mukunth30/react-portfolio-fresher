@@ -17,6 +17,8 @@
 .skills h4 {
   display: flex;
   justify-content: space-between;
+  background: rgb(255, 255, 255);
+  border-radius: 10px;
 }
 .skills h2 {
   color: white;
@@ -48,10 +50,17 @@
   color: darksalmon;
 }
 .education h2{
-  color: white;
+  color: rgb(105, 215, 255);
   text-align: center;
 }
-.education p{
+.education h3{
   color: white;
+  padding: 0.5rem 0;
+  text-align: center;
+}
+.education h5{
+  color: white;
+  padding: 0.5rem 0;
+  font-size: 1rem;
   text-align: center;
 }
