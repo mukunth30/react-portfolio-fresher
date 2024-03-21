@@ -53,6 +53,9 @@ const AboutContant = () => {
               <h2>UG-DEGREE</h2>
               <h3>AGRUCHAND MANULL JAIN COLLEGE</h3>
               <h5>B.COM(MAKKETING MANAGEMENT)-2022</h5>
+              <h2>PG-DEGREE</h2>
+              <h3>VELS INSITITUTE OF TECHNOLOGY & ADVANCED STUDIES</h3>
+              <h5>MCA-(MASTER OF COMPUTER APPLICATION)-2026</h5>
               <h2>CERTIFICATTE</h2>
               <h3>AIMORE TECHNOLOGY CHENNAI</h3>
               <h5>FRONT-END DEVELOPER-2023</h5>
